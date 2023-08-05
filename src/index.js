@@ -20,8 +20,7 @@ root.render(
 	<div className="nav-area">
         <Link to="/" className="logo">         
         </Link>
-		<Link to= "/bs-features/" activeClassName="active">Features</Link><br clear="all"/>
-		<a href="/bs-features/" >Michael</a>
+		<br clear="all"/>
         <Navbar /></div>
       <App />
     </BrowserRouter>

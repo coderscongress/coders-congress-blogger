@@ -19,4 +19,8 @@ YoutubeEmbed.propTypes = {
   embedId: PropTypes.string.isRequired
 };
 
+YoutubeEmbed.defaultProps = {
+  embedId:"WM543iWuxF8"
+};
+
 export default YoutubeEmbed;
