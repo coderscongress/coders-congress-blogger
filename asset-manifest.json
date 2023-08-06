@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-demo-app/static/css/main.96087ae0.css",
+    "main.js": "/portfolio-demo-app/static/js/main.79036eb0.js",
+    "static/js/787.9f19663b.chunk.js": "/portfolio-demo-app/static/js/787.9f19663b.chunk.js",
+    "static/media/image4.jpg": "/portfolio-demo-app/static/media/image4.be27f8ed0a48da4e0683.jpg",
+    "static/media/image3.jpg": "/portfolio-demo-app/static/media/image3.724218d3cf96d66f63c8.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio-demo-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/image6.jpg": "/portfolio-demo-app/static/media/image6.c068d52625a8568693ef.jpg",
+    "static/media/fontawesome-webfont.eot": "/portfolio-demo-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio-demo-app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/image2.jpg": "/portfolio-demo-app/static/media/image2.d2b1caed287c98b03ece.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio-demo-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio-demo-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/image5.jpg": "/portfolio-demo-app/static/media/image5.831268fccc96b240bca4.jpg",
+    "static/media/revicons.eot": "/portfolio-demo-app/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-demo-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio-demo-app/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio-demo-app/index.html",
+    "main.96087ae0.css.map": "/portfolio-demo-app/static/css/main.96087ae0.css.map",
+    "main.79036eb0.js.map": "/portfolio-demo-app/static/js/main.79036eb0.js.map",
+    "787.9f19663b.chunk.js.map": "/portfolio-demo-app/static/js/787.9f19663b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96087ae0.css",
+    "static/js/main.79036eb0.js"
+  ]
+}
